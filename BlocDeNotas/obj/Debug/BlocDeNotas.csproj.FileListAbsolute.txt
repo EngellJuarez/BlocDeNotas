@@ -1,0 +1,10 @@
+C:\Users\User\Documents\Engell\BlocDeNotas\BlocDeNotas\bin\Debug\BlocDeNotas.exe.config
+C:\Users\User\Documents\Engell\BlocDeNotas\BlocDeNotas\bin\Debug\BlocDeNotas.exe
+C:\Users\User\Documents\Engell\BlocDeNotas\BlocDeNotas\bin\Debug\BlocDeNotas.pdb
+C:\Users\User\Documents\Engell\BlocDeNotas\BlocDeNotas\obj\Debug\BlocDeNotas.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Engell\BlocDeNotas\BlocDeNotas\obj\Debug\BlocDeNotas.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\Engell\BlocDeNotas\BlocDeNotas\obj\Debug\BlocDeNotas.Properties.Resources.resources
+C:\Users\User\Documents\Engell\BlocDeNotas\BlocDeNotas\obj\Debug\BlocDeNotas.csproj.GenerateResource.cache
+C:\Users\User\Documents\Engell\BlocDeNotas\BlocDeNotas\obj\Debug\BlocDeNotas.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Engell\BlocDeNotas\BlocDeNotas\obj\Debug\BlocDeNotas.exe
+C:\Users\User\Documents\Engell\BlocDeNotas\BlocDeNotas\obj\Debug\BlocDeNotas.pdb
