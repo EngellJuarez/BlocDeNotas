@@ -54,6 +54,9 @@ namespace BlocDeNotas
                 foreach(object line in richTextBox1.Lines)
                 {
                     write.WriteLine(line);
+                    treeView1.Nodes.Clear();
+                    DirectoryInfo directory = new DirectoryInfo("C:\\Users\\User\\Documents\\Prueba");
+                    treeView1.Nodes.Add(CrearArbol(directory));
                 }
                 write.Close();
             }
@@ -91,6 +94,22 @@ namespace BlocDeNotas
         private void Form1_Load(object sender, EventArgs e)
         {
             richTextBox1.Focus();
+        }
+
+        public TreeNode CrearArbol(DirectoryInfo directory)
+        {
+            TreeNode tree = new TreeNode(directory.Name);
+
+            foreach (var item in directory.GetDirectories())
+            {
+                tree.Nodes.Add(CrearArbol(item));
+            }
+
+            foreach(var item in directory.GetFiles())
+            {
+                tree.Nodes.Add(new TreeNode(item.Name));
+            }
+            return tree;
         }
 
         private void archivoToolStripMenuItem_Click(object sender, EventArgs e)
