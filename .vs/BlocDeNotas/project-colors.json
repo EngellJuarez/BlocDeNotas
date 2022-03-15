@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9e20b569-2559-4075-9fc4-447c36f68d85": {
+      "ProjectGuid": "9e20b569-2559-4075-9fc4-447c36f68d85",
+      "DisplayName": "BlocDeNotas",
+      "ColorIndex": 0
+    },
+    "13fca8f7-0501-4fea-b88f-79c58f70344c": {
+      "ProjectGuid": "13fca8f7-0501-4fea-b88f-79c58f70344c",
+      "DisplayName": "Domain",
+      "ColorIndex": 1
+    },
+    "52dc3570-7334-4161-a72b-2e79ea305889": {
+      "ProjectGuid": "52dc3570-7334-4161-a72b-2e79ea305889",
+      "DisplayName": "Infraestructure",
+      "ColorIndex": 2
+    },
+    "1ff024f5-7a47-43be-b08c-ec132e277e85": {
+      "ProjectGuid": "1ff024f5-7a47-43be-b08c-ec132e277e85",
+      "DisplayName": "Application",
+      "ColorIndex": 3
+    },
+    "26291d04-e405-4d6f-b513-92034ec130b0": {
+      "ProjectGuid": "26291d04-e405-4d6f-b513-92034ec130b0",
+      "DisplayName": "BlocDeNotas",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

@@ -8,3 +8,4 @@ C:\Users\User\Documents\Engell\BlocDeNotas\BlocDeNotas\obj\Debug\BlocDeNotas.csp
 C:\Users\User\Documents\Engell\BlocDeNotas\BlocDeNotas\obj\Debug\BlocDeNotas.csproj.CoreCompileInputs.cache
 C:\Users\User\Documents\Engell\BlocDeNotas\BlocDeNotas\obj\Debug\BlocDeNotas.exe
 C:\Users\User\Documents\Engell\BlocDeNotas\BlocDeNotas\obj\Debug\BlocDeNotas.pdb
+C:\Users\User\Documents\Engell\BlocDeNotas\BlocDeNotas\obj\Debug\BlocDeNotas.Form1.resources
