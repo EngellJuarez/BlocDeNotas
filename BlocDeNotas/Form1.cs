@@ -55,7 +55,7 @@ namespace BlocDeNotas
                 {
                     write.WriteLine(line);
                     treeView1.Nodes.Clear();
-                    DirectoryInfo directory = new DirectoryInfo("C:\\Users\\User\\Documents\\Prueba");
+                    DirectoryInfo directory = new DirectoryInfo("F:\\Programación II\\Prueba");
                     treeView1.Nodes.Add(CrearArbol(directory));
                 }
                 write.Close();
